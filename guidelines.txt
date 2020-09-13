@@ -25,4 +25,7 @@
 25. dotnet watch run
 
 26. npx create-react-app client-app --use-npm --typescript
-27.
+27. npm install semantic-ui-react
+28. npm install semantic-ui-css
+29. npm install axios
+30. npm install -g react-devtools
