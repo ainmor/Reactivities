@@ -1,4 +1,3 @@
-import { create } from 'domain';
 import React, { FormEvent, useState } from 'react';
 import { Button, Form, Segment } from 'semantic-ui-react';
 import { IActivity } from '../../../app/models/activity';

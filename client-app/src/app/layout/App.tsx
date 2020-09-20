@@ -38,7 +38,7 @@ const App = () => {
   };
 
   const handleDeleteActivity = (id: string) => {
-    setActivities([...activities.filter((a) => a.id != id)]);
+    setActivities([...activities.filter((a) => a.id !== id)]);
   };
 
   // three component life cycle, get the activity and the set activities and is never runs again by sending empty array
