@@ -29,3 +29,11 @@
 28. npm install semantic-ui-css
 29. npm install axios
 30. npm install -g react-devtools
+
+31. type rafc code snippet
+32. npm install uuid
+33. run the command npm run start on client-app project
+34. run the command dotnet watch run on api project
+35. npm install @types/uuid
+
+
