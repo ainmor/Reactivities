@@ -35,7 +35,7 @@
 33. run the command npm run start on client-app project
 34. run the command dotnet watch run on api project
 35. npm install @types/uuid
-36. dotnet ef drop database -p Persistence/ -s API/
-37. dotnet watch run
+36. dotnet ef drop database -p Persistence/ -s API/                //(to drop the database table)
+37. dotnet watch run                                               //(to insert and run from the seeds)
 
 
