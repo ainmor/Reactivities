@@ -24,18 +24,19 @@
 24. dotnet ef migrations add SeedValues -p Persistence\ -s API
 25. dotnet watch run
 
-26. npx create-react-app client-app --use-npm --typescript
-27. npm install semantic-ui-react
-28. npm install semantic-ui-css
-29. npm install axios
-30. npm install -g react-devtools
+26. npx create-react-app client-app --use-npm --typescript  (install in a client-app directory)
+27. npm install semantic-ui-react  (install in a client-app directory)
+28. npm install semantic-ui-css  (install in a client-app directory)
+29. npm install axios  (install in a client-app directory)
+30. npm install -g react-devtools  (install in a client-app directory)
 
 31. type rafc code snippet
-32. npm install uuid
-33. run the command npm run start on client-app project
-34. run the command dotnet watch run on api project
-35. npm install @types/uuid
-36. dotnet ef drop database -p Persistence/ -s API/                //(to drop the database table)
-37. dotnet watch run                                               //(to insert and run from the seeds)
+32. npm install uuid  (install in a client-app directory)
+33. run the command npm run start on client-app project  (install in a client-app directory)
+34. run the command dotnet watch run on api project   (install in a client-app directory)
+35. npm install @types/uuid  (install in a client-app directory)
+36. dotnet ef drop database -p Persistence/ -s API/                // (to drop the database table)
+37. dotnet watch run                                               // (to insert and run from the seeds)
+38. npm install mobx mobx-react-lite (install in a client-app directory)
 
 
